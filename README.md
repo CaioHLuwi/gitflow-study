@@ -1,7 +1,5 @@
-# gitflow-study
+# Gitflow Study
+Esse repositório foi apenas criado para fazer uma simulação dos padrões de criação de branchs para novas features, releases e correções de bug. Todas as operações seguindo o padrão de procedimento GitFlow.
 
-Alteração feita direto no GitHub.
-
-Nova alteração feita direto no GitHub Web.
-
-Alteração N3 para testar o Sync no repostório forkado.
+# Exercicio de resolução de bug critico abaixo:
+- Bug resolvido.
